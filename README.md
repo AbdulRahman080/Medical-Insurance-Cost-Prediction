@@ -14,6 +14,7 @@ Models evaluated:
 - Linear Regression
 - Ridge & Lasso
 - Random Forest
+  
 Final model: Linear Regression on log-transformed charges
 - R² ≈ 0.87, outperforming Random Forest after domain-informed feature engineering
 ## Technologies
