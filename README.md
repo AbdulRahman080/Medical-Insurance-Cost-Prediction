@@ -3,8 +3,11 @@
 Predicting and explaining individual medical insurance costs using demographic and lifestyle data, with an emphasis on interpretability and principled model selection.
 ## Dataset
 Medical Insurance Cost dataset (Kaggle): https://www.kaggle.com/datasets/hetmengar/medical-insurance-cost-prediction/data
+
 ~1,300 observations, no missing values after cleaning.
+
 Target: charges
+
 Features: age, sex, BMI, children, smoking status, region
 ## Modeling
 Models evaluated:
