@@ -11,11 +11,11 @@ Target: charges
 Features: age, sex, BMI, children, smoking status, region
 ## Modeling
 Models evaluated:
-Linear Regression
-Ridge & Lasso
-Random Forest
+- Linear Regression
+- Ridge & Lasso
+- Random Forest
 Final model: Linear Regression on log-transformed charges
-R² ≈ 0.87, outperforming Random Forest after domain-informed feature engineering
+- R² ≈ 0.87, outperforming Random Forest after domain-informed feature engineering
 ## Technologies
 Python, pandas, NumPy, scikit-learn, matplotlib, seaborn
 ## Conclusion
